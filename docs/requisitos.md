@@ -14,3 +14,4 @@ Este projeto tem como objetivo criar uma plataforma de eventos culturais, onde o
   6. RF-A6: O ADM pode deletar seus próprios eventos.
   7. RF-A7: O ADM pode suspender ou reativar parceiros, caso necessário.
 ### Requisitos do parceiro (RF-P)
+H
